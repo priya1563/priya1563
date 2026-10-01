@@ -52,10 +52,6 @@ Skilled in designing CRUD REST APIs, implementing authentication and role-based 
 ## 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,js" alt="Programming Languages" />
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -63,10 +59,6 @@ Skilled in designing CRUD REST APIs, implementing authentication and role-based 
 </p>
 
 ## ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate" alt="Backend Technologies" />
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/Core%20Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Core Java" />
@@ -77,14 +69,10 @@ Skilled in designing CRUD REST APIs, implementing authentication and role-based 
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
   <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=server&logoColor=white" alt="Microservices" />
 </p>
 
 ## 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -93,10 +81,6 @@ Skilled in designing CRUD REST APIs, implementing authentication and role-based 
 </p>
 
 ## 🌐 Web Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Web Technologies" />
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -108,23 +92,18 @@ Skilled in designing CRUD REST APIs, implementing authentication and role-based 
 ## 🧠 Core Java & CS Fundamentals
 
 <p>
-  <img src="https://img.shields.io/badge/OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="OOP" />
-  <img src="https://img.shields.io/badge/Collections-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Collections Framework" />
-  <img src="https://img.shields.io/badge/Exception%20Handling-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Exception Handling" />
+  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Object Oriented Programming" />
+  <img src="https://img.shields.io/badge/Collections%20Framework-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Collections Framework" />
+  <img src="https://img.shields.io/badge/Exception%20Handling-E34F26?style=for-the-badge&logo=openjdk&logoColor=white" alt="Exception Handling" />
   <img src="https://img.shields.io/badge/Multithreading-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Multithreading" />
   <img src="https://img.shields.io/badge/File%20Handling-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="File Handling" />
-  <img src="https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=java&logoColor=white" alt="JDBC Connectivity" />
-  <img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge" alt="Data Structures and Algorithms" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF6F00?style=for-the-badge" alt="Data Structures and Algorithms" />
   <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="DBMS" />
-  <img src="https://img.shields.io/badge/CRUD-6C63FF?style=for-the-badge" alt="CRUD Operations" />
+  <img src="https://img.shields.io/badge/CRUD%20Operations-6C63FF?style=for-the-badge" alt="CRUD Operations" />
   <img src="https://img.shields.io/badge/Layered%20Architecture-6C63FF?style=for-the-badge" alt="Layered Architecture" />
 </p>
 
 ## 🔧 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,maven,idea,vscode" alt="Tools and Platforms" />
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
@@ -143,8 +122,8 @@ Skilled in designing CRUD REST APIs, implementing authentication and role-based 
   <img src="https://img.shields.io/badge/Controller--Service--Repository-6C63FF?style=for-the-badge" alt="Controller Service Repository" />
   <img src="https://img.shields.io/badge/Authentication-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Authentication" />
   <img src="https://img.shields.io/badge/Role--Based%20Access-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Role Based Access Control" />
-  <img src="https://img.shields.io/badge/Validation-FF6F00?style=for-the-badge" alt="Validation" />
-  <img src="https://img.shields.io/badge/Exception%20Handling-E34F26?style=for-the-badge" alt="Global Exception Handling" />
+  <img src="https://img.shields.io/badge/Input%20Validation-FF6F00?style=for-the-badge" alt="Input Validation" />
+  <img src="https://img.shields.io/badge/Global%20Exception%20Handling-E34F26?style=for-the-badge" alt="Global Exception Handling" />
 </p>
 
 ---
