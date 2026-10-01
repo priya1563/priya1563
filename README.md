@@ -37,16 +37,6 @@ Skilled in designing CRUD REST APIs, implementing authentication and role-based 
 
 ---
 
-## 📄 Resume
-
-<p align="center">
-  <a href="assets/LUCKY_PRIYA_java_developer_Resume.pdf">
-    <img src="https://img.shields.io/badge/📥%20Download%20Resume-0F172A?style=for-the-badge&logo=adobeacrobatreader&logoColor=7DD3FC" alt="Download Resume" />
-  </a>
-</p>
-
----
-
 # 🛠️ Technical Skills
 
 ## 💻 Programming Languages
