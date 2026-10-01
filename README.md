@@ -6,7 +6,7 @@
 
 <p align="left">
   <a href="mailto:priyalucky1305@gmail.com"><img src="https://img.shields.io/badge/Email-priyalucky1305%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/priya1563"><img src="https://img.shields.io/badge/GitHub-PriyaModi1309-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/priya1563"><img src="https://img.shields.io/badge/GitHub-Priya1563-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="assets/resume.pdf"><img src="https://img.shields.io/badge/Resume-Download%20PDF-007ACC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" /></a>
   <img src="https://img.shields.io/badge/Location-West%20Bengal%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
