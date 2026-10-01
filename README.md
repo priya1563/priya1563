@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&width=800&lines=Lucky+Priya+%F0%9F%91%8B;Java+Developer+%7C+Spring+Boot+%26+Backend+Specialist;Backend+Developer;Building+Scalable+Backend+Applications;REST+APIs+%7C+Spring+Boot+%7C+MySQL" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7DD3FC&center=true&vCenter=true&width=800&lines=Lucky+Priya+%F0%9F%91%8B;Java+Developer+%7C+Spring+Boot+%26+Backend+Specialist;Backend+Developer;Building+Scalable+Backend+Applications;REST+APIs+%7C+Spring+Boot+%7C+MySQL" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,16 +12,16 @@
 
 <p align="center">
   <a href="https://github.com/priya1563">
-    <img src="https://img.shields.io/badge/GitHub-Priya1563-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Priya1563-0F172A?style=for-the-badge&logo=github&logoColor=7DD3FC" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/lucky-priya-6648a740a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Lucky%20Priya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Lucky%20Priya-38BDF8?style=for-the-badge&logo=linkedin&logoColor=0F172A" alt="LinkedIn" />
   </a>
   <a href="https://myportfolio-luckypriya.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0F172A?style=for-the-badge&logo=vercel&logoColor=7DD3FC" alt="Portfolio" />
   </a>
   <a href="mailto:priyalucky1305@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-7DD3FC?style=for-the-badge&logo=gmail&logoColor=0F172A" alt="Email" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@ Skilled in designing CRUD REST APIs, implementing authentication and role-based 
 
 <p align="center">
   <a href="assets/LUCKY_PRIYA_java_developer_Resume.pdf">
-    <img src="https://img.shields.io/badge/📥%20Download%20Resume-007ACC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
+    <img src="https://img.shields.io/badge/📥%20Download%20Resume-0F172A?style=for-the-badge&logo=adobeacrobatreader&logoColor=7DD3FC" alt="Download Resume" />
   </a>
 </p>
 
@@ -52,94 +52,94 @@ Skilled in designing CRUD REST APIs, implementing authentication and role-based 
 ## 💻 Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Java-7DD3FC?style=for-the-badge&logo=openjdk&logoColor=0F172A" alt="Java" />
+  <img src="https://img.shields.io/badge/C-0F172A?style=for-the-badge&logo=c&logoColor=7DD3FC" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-7DD3FC?style=for-the-badge&logo=javascript&logoColor=0F172A" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=mysql&logoColor=7DD3FC" alt="SQL" />
 </p>
 
 ## ⚙️ Backend Development
 
 <p>
-  <img src="https://img.shields.io/badge/Core%20Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Core Java" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC" />
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
-  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
-  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=server&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/Core%20Java-7DD3FC?style=for-the-badge&logo=openjdk&logoColor=0F172A" alt="Core Java" />
+  <img src="https://img.shields.io/badge/Spring-0F172A?style=for-the-badge&logo=spring&logoColor=7DD3FC" alt="Spring" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-7DD3FC?style=for-the-badge&logo=springboot&logoColor=0F172A" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring%20MVC-0F172A?style=for-the-badge&logo=spring&logoColor=7DD3FC" alt="Spring MVC" />
+  <img src="https://img.shields.io/badge/Spring%20Security-7DD3FC?style=for-the-badge&logo=springsecurity&logoColor=0F172A" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-0F172A?style=for-the-badge&logo=spring&logoColor=7DD3FC" alt="Spring Data JPA" />
+  <img src="https://img.shields.io/badge/Hibernate-7DD3FC?style=for-the-badge&logo=hibernate&logoColor=0F172A" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=for-the-badge&logo=postman&logoColor=7DD3FC" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Microservices-7DD3FC?style=for-the-badge&logo=server&logoColor=0F172A" alt="Microservices" />
 </p>
 
 ## 🗄️ Databases
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=java&logoColor=white" alt="JDBC" />
+  <img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=7DD3FC" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL-7DD3FC?style=for-the-badge&logo=mysql&logoColor=0F172A" alt="SQL" />
+  <img src="https://img.shields.io/badge/JDBC-0F172A?style=for-the-badge&logo=java&logoColor=7DD3FC" alt="JDBC" />
 </p>
 
 ## 🌐 Web Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/HTML5-7DD3FC?style=for-the-badge&logo=html5&logoColor=0F172A" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=7DD3FC" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-7DD3FC?style=for-the-badge&logo=javascript&logoColor=0F172A" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/JSON-0F172A?style=for-the-badge&logo=json&logoColor=7DD3FC" alt="JSON" />
 </p>
 
 ## 🧠 Core Java & CS Fundamentals
 
 <p>
-  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Object Oriented Programming" />
-  <img src="https://img.shields.io/badge/Collections%20Framework-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Collections Framework" />
-  <img src="https://img.shields.io/badge/Exception%20Handling-E34F26?style=for-the-badge&logo=openjdk&logoColor=white" alt="Exception Handling" />
-  <img src="https://img.shields.io/badge/Multithreading-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Multithreading" />
-  <img src="https://img.shields.io/badge/File%20Handling-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="File Handling" />
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF6F00?style=for-the-badge" alt="Data Structures and Algorithms" />
-  <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="DBMS" />
-  <img src="https://img.shields.io/badge/CRUD%20Operations-6C63FF?style=for-the-badge" alt="CRUD Operations" />
-  <img src="https://img.shields.io/badge/Layered%20Architecture-6C63FF?style=for-the-badge" alt="Layered Architecture" />
+  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-7DD3FC?style=for-the-badge&logo=openjdk&logoColor=0F172A" alt="Object Oriented Programming" />
+  <img src="https://img.shields.io/badge/Collections%20Framework-0F172A?style=for-the-badge&logo=openjdk&logoColor=7DD3FC" alt="Collections Framework" />
+  <img src="https://img.shields.io/badge/Exception%20Handling-7DD3FC?style=for-the-badge&logo=openjdk&logoColor=0F172A" alt="Exception Handling" />
+  <img src="https://img.shields.io/badge/Multithreading-0F172A?style=for-the-badge&logo=openjdk&logoColor=7DD3FC" alt="Multithreading" />
+  <img src="https://img.shields.io/badge/File%20Handling-7DD3FC?style=for-the-badge&logo=openjdk&logoColor=0F172A" alt="File Handling" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0F172A?style=for-the-badge&logoColor=7DD3FC" alt="Data Structures and Algorithms" />
+  <img src="https://img.shields.io/badge/DBMS-7DD3FC?style=for-the-badge&logo=mysql&logoColor=0F172A" alt="DBMS" />
+  <img src="https://img.shields.io/badge/CRUD%20Operations-0F172A?style=for-the-badge&logoColor=7DD3FC" alt="CRUD Operations" />
+  <img src="https://img.shields.io/badge/Layered%20Architecture-7DD3FC?style=for-the-badge&logoColor=0F172A" alt="Layered Architecture" />
 </p>
 
 ## 🔧 Tools & Platforms
 
 <p>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-0F172A?style=for-the-badge&logo=intellijidea&logoColor=7DD3FC" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/VS%20Code-7DD3FC?style=for-the-badge&logo=visualstudiocode&logoColor=0F172A" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=7DD3FC" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-7DD3FC?style=for-the-badge&logo=github&logoColor=0F172A" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=7DD3FC" alt="Postman" />
+  <img src="https://img.shields.io/badge/Maven-7DD3FC?style=for-the-badge&logo=apachemaven&logoColor=0F172A" alt="Maven" />
 </p>
 
 ## 🏗️ Architecture & Development
 
 <p>
-  <img src="https://img.shields.io/badge/RESTful%20API-009688?style=for-the-badge&logo=postman&logoColor=white" alt="RESTful API" />
-  <img src="https://img.shields.io/badge/MVC%20Architecture-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="MVC Architecture" />
-  <img src="https://img.shields.io/badge/Controller--Service--Repository-6C63FF?style=for-the-badge" alt="Controller Service Repository" />
-  <img src="https://img.shields.io/badge/Authentication-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Authentication" />
-  <img src="https://img.shields.io/badge/Role--Based%20Access-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Role Based Access Control" />
-  <img src="https://img.shields.io/badge/Input%20Validation-FF6F00?style=for-the-badge" alt="Input Validation" />
-  <img src="https://img.shields.io/badge/Global%20Exception%20Handling-E34F26?style=for-the-badge" alt="Global Exception Handling" />
+  <img src="https://img.shields.io/badge/RESTful%20API-7DD3FC?style=for-the-badge&logo=postman&logoColor=0F172A" alt="RESTful API" />
+  <img src="https://img.shields.io/badge/MVC%20Architecture-0F172A?style=for-the-badge&logo=spring&logoColor=7DD3FC" alt="MVC Architecture" />
+  <img src="https://img.shields.io/badge/Controller--Service--Repository-7DD3FC?style=for-the-badge&logoColor=0F172A" alt="Controller Service Repository" />
+  <img src="https://img.shields.io/badge/Authentication-0F172A?style=for-the-badge&logo=springsecurity&logoColor=7DD3FC" alt="Authentication" />
+  <img src="https://img.shields.io/badge/Role--Based%20Access-7DD3FC?style=for-the-badge&logo=springsecurity&logoColor=0F172A" alt="Role Based Access Control" />
+  <img src="https://img.shields.io/badge/Input%20Validation-0F172A?style=for-the-badge&logoColor=7DD3FC" alt="Input Validation" />
+  <img src="https://img.shields.io/badge/Global%20Exception%20Handling-7DD3FC?style=for-the-badge&logoColor=0F172A" alt="Global Exception Handling" />
 </p>
 
 ---
 
 ## 📊 Skills Overview
 
-| Category                  | Technologies & Competencies                                                                                                 |
-| :------------------------ | :-------------------------------------------------------------------------------------------------------------------------- |
-| **Programming Languages** | Java, C, JavaScript, SQL                                                                                                    |
-| **Backend Development**   | Core Java, Spring, Spring Boot, Spring MVC, Spring Data JPA, Spring Security, REST APIs, Microservices, JDBC, Hibernate/JPA |
-| **Core Java Concepts**    | OOP, Collections Framework, Exception Handling, Multithreading, File Handling, JDBC Connectivity                            |
-| **Databases**             | MySQL, SQL, Database Design, CRUD Operations                                                                                |
-| **Web Technologies**      | HTML, CSS, JavaScript, JSON                                                                                                 |
-| **Architecture**          | MVC, Controller-Service-Repository, Layered Architecture, RESTful APIs                                                      |
-| **Tools & Platforms**     | IntelliJ IDEA, VS Code, Git, GitHub, Postman, Maven                                                                         |
-| **CS Fundamentals**       | Data Structures & Algorithms, DBMS, Object-Oriented Programming                                                             |
+| Category | Technologies & Competencies |
+| :--- | :--- |
+| **Programming Languages** | Java, C, JavaScript, SQL |
+| **Backend Development** | Core Java, Spring, Spring Boot, Spring MVC, Spring Data JPA, Spring Security, REST APIs, Microservices, JDBC, Hibernate/JPA |
+| **Core Java Concepts** | OOP, Collections Framework, Exception Handling, Multithreading, File Handling, JDBC Connectivity |
+| **Databases** | MySQL, SQL, Database Design, CRUD Operations |
+| **Web Technologies** | HTML, CSS, JavaScript, JSON |
+| **Architecture** | MVC, Controller-Service-Repository, Layered Architecture, RESTful APIs |
+| **Tools & Platforms** | IntelliJ IDEA, VS Code, Git, GitHub, Postman, Maven |
+| **CS Fundamentals** | Data Structures & Algorithms, DBMS, Object-Oriented Programming |
 
 ---
 
@@ -213,9 +213,9 @@ Skilled in designing CRUD REST APIs, implementing authentication and role-based 
 
 # 🌐 Languages
 
-| Language         | Proficiency                      |
-| :--------------- | :------------------------------- |
-| 🇮🇳 **Hindi**   | Native                           |
+| Language | Proficiency |
+| :--- | :--- |
+| 🇮🇳 **Hindi** | Native |
 | 🇬🇧 **English** | Professional Working Proficiency |
 
 ---
@@ -223,12 +223,12 @@ Skilled in designing CRUD REST APIs, implementing authentication and role-based 
 # 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priya1563&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priya1563&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priya1563&show_icons=true&theme=transparent&title_color=7DD3FC&text_color=CBD5E1&icon_color=7DD3FC&border_color=1E293B&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priya1563&layout=compact&theme=transparent&title_color=7DD3FC&text_color=CBD5E1&icon_color=7DD3FC&border_color=1E293B" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priya1563&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priya1563&theme=dark&background=0F172A&ring=7DD3FC&fire=38BDF8&currStreakLabel=7DD3FC&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -250,19 +250,19 @@ Skilled in designing CRUD REST APIs, implementing authentication and role-based 
 <p align="center">
 
   <a href="mailto:priyalucky1305@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-7DD3FC?style=for-the-badge&logo=gmail&logoColor=0F172A" alt="Email" />
   </a>
 
   <a href="https://www.linkedin.com/in/lucky-priya-6648a740a/">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=7DD3FC" alt="LinkedIn" />
   </a>
 
   <a href="https://github.com/priya1563">
-    <img src="https://img.shields.io/badge/💻%20GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/💻%20GitHub-Visit%20Profile-7DD3FC?style=for-the-badge&logo=github&logoColor=0F172A" alt="GitHub" />
   </a>
 
   <a href="https://myportfolio-luckypriya.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0F172A?style=for-the-badge&logo=vercel&logoColor=7DD3FC" alt="Portfolio" />
   </a>
 
 </p>
@@ -270,10 +270,10 @@ Skilled in designing CRUD REST APIs, implementing authentication and role-based 
 <p align="center">
 
   <a href="tel:+919341773787">
-    <img src="https://img.shields.io/badge/📞%20Phone-%2B91%209341773787-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+    <img src="https://img.shields.io/badge/📞%20Phone-%2B91%209341773787-7DD3FC?style=for-the-badge&logo=whatsapp&logoColor=0F172A" alt="Phone" />
   </a>
 
-  <img src="https://img.shields.io/badge/📍%20Location-West%20Bengal%2C%20India-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/📍%20Location-West%20Bengal%2C%20India-0F172A?style=for-the-badge&logo=googlemaps&logoColor=7DD3FC" alt="Location" />
 
 </p>
 
