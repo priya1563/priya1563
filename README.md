@@ -1,13 +1,25 @@
-# Hi there, I'm Lucky Priya 👋 
+# Hi there, I'm Lucky Priya 👋
 
-<p align="left">
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Lucky+Priya+%F0%9F%91%8B;Java+Developer+%7C+Spring+Boot+%26+Backend+Specialist;Building+Scalable+Backend+Applications;REST+APIs+%7C+Spring+Boot+%7C+MySQL" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <strong>Java Developer | Spring Boot & Backend Specialist</strong>
 </p>
 
-<p align="left">
-  <a href="mailto:priyalucky1305@gmail.com"><img src="https://img.shields.io/badge/Email-priyalucky1305%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/priya1563"><img src="https://img.shields.io/badge/GitHub-Priya1563-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="assets/resume.pdf"><img src="https://img.shields.io/badge/Resume-Download%20PDF-007ACC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" /></a>
+<p align="center">
+  <a href="mailto:priyalucky1305@gmail.com">
+    <img src="https://img.shields.io/badge/Email-priyalucky1305%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/priya1563">
+    <img src="https://img.shields.io/badge/GitHub-Priya1563-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="assets/resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download%20PDF-007ACC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
+  </a>
   <img src="https://img.shields.io/badge/Location-West%20Bengal%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
@@ -21,10 +33,10 @@ Java Developer with hands-on experience in building backend applications and RES
 
 ## 📄 Resume
 
-- 📥 **Direct Download / View**: [Lucky Priya - Resume (PDF)](assets/resume.pdf)
-- 📞 **Contact**: +91 9341773787
-- 📧 **Email**: priyalucky1305@gmail.com
-- 🔗 **GitHub Profile**: https://github.com/priya1563
+* 📥 **Direct Download / View:** [Lucky Priya - Resume (PDF)](assets/resume.pdf)
+* 📞 **Contact:** +91 9341773787
+* 📧 **Email:** [priyalucky1305@gmail.com](mailto:priyalucky1305@gmail.com)
+* 🔗 **GitHub Profile:** https://github.com/priya1563
 
 ---
 
@@ -43,81 +55,106 @@ Java Developer with hands-on experience in building backend applications and RES
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
 </p>
 
-| Category | Technologies & Competencies |
-| :--- | :--- |
-| **Programming Languages** | Java, C, JavaScript, SQL |
-| **Backend Development** | Core Java, Spring, Spring Boot, Spring MVC, Spring Data JPA, Spring Security, REST APIs, Microservices, JDBC, Hibernate/JPA |
-| **Core Java Concepts** | OOP, Collections Framework, Exception Handling, Multithreading, File Handling, JDBC Connectivity |
-| **Databases** | MySQL, SQL, Database Design, CRUD Operations |
-| **Web Technologies** | HTML, CSS, JSON |
-| **Tools & Platforms** | IntelliJ IDEA, VS Code, Git, GitHub, Postman, Maven |
-| **CS Fundamentals** | Data Structures & Algorithms (DSA), DBMS, Object-Oriented Programming (OOP) |
+| Category                  | Technologies & Competencies                                                                                                 |
+| :------------------------ | :-------------------------------------------------------------------------------------------------------------------------- |
+| **Programming Languages** | Java, C, JavaScript, SQL                                                                                                    |
+| **Backend Development**   | Core Java, Spring, Spring Boot, Spring MVC, Spring Data JPA, Spring Security, REST APIs, Microservices, JDBC, Hibernate/JPA |
+| **Core Java Concepts**    | OOP, Collections Framework, Exception Handling, Multithreading, File Handling, JDBC Connectivity                            |
+| **Databases**             | MySQL, SQL, Database Design, CRUD Operations                                                                                |
+| **Web Technologies**      | HTML, CSS, JSON                                                                                                             |
+| **Tools & Platforms**     | IntelliJ IDEA, VS Code, Git, GitHub, Postman, Maven                                                                         |
+| **CS Fundamentals**       | Data Structures & Algorithms (DSA), DBMS, Object-Oriented Programming (OOP)                                                 |
 
 ---
 
 ## 💼 Work Experience / Industrial Training
 
 ### **Java Developer (Industrial Training)** — *Ardent Computer Pvt. Ltd.*
-`Hybrid` | `Jan 2026 – Feb 2026` | **Focus**: Spring Boot & Microservices
 
-- Completed industrial training on **Spring Boot**, **Microservices**, and backend development, covering end-to-end application build practices.
-- Gained hands-on experience building **REST APIs** and database-driven applications using **Java**, **Spring Boot**, and **MySQL** during hands-on training modules.
-- Worked with core backend concepts including API development, database integration, layered application architecture, and data persistence.
-- Applied exception handling, input validation, and clean coding practices to build reliable and maintainable backend modules.
+`Hybrid` | `Jan 2026 – Feb 2026` | **Focus:** Spring Boot & Microservices
+
+* Completed industrial training on **Spring Boot**, **Microservices**, and backend development, covering end-to-end application build practices.
+* Gained hands-on experience building **REST APIs** and database-driven applications using **Java**, **Spring Boot**, and **MySQL** during hands-on training modules.
+* Worked with core backend concepts including API development, database integration, layered application architecture, and data persistence.
+* Applied exception handling, input validation, and clean coding practices to build reliable and maintainable backend modules.
 
 ---
 
 ## 🚀 Projects
 
 ### 🎬 **OTT Streaming Platform**
-`Jan 2026 – Mar 2026` | **Tech Stack**: `Java`, `Spring Boot`, `MySQL`, `Hibernate/JPA`
-- Developed a full-stack OTT streaming platform using Java, Spring Boot, and MySQL following a layered **Controller–Service–Repository** architecture.
-- Implemented user authentication, movie management modules, and CRUD REST APIs for complete content operations.
-- Integrated MySQL with Hibernate/JPA for efficient data persistence, entity mapping, and optimized database management.
-- Implemented global exception handling and business validation to build maintainable and reliable backend components.
+
+`Jan 2026 – Mar 2026` | **Tech Stack:** `Java` `Spring Boot` `MySQL` `Hibernate/JPA`
+
+* Developed a full-stack OTT streaming platform using Java, Spring Boot, and MySQL following a layered **Controller–Service–Repository** architecture.
+* Implemented user authentication, movie management modules, and CRUD REST APIs for complete content operations.
+* Integrated MySQL with Hibernate/JPA for efficient data persistence, entity mapping, and optimized database management.
+* Implemented global exception handling and business validation to build maintainable and reliable backend components.
 
 ---
 
 ### 🏦 **BankX – Banking Management System**
-`Apr 2026 – Jun 2026` | **Tech Stack**: `Spring Boot`, `Spring Security`, `Hibernate`, `MySQL`
-- Developed REST APIs for account management, deposits, withdrawals, and fund transfers between customer accounts.
-- Implemented transaction processing and transaction history tracking using JPA/Hibernate with MySQL.
-- Added authentication, input validation, exception handling, and secure role-based access control using **Spring Security**.
+
+`Apr 2026 – Jun 2026` | **Tech Stack:** `Spring Boot` `Spring Security` `Hibernate` `MySQL`
+
+* Developed REST APIs for account management, deposits, withdrawals, and fund transfers between customer accounts.
+* Implemented transaction processing and transaction history tracking using JPA/Hibernate with MySQL.
+* Added authentication, input validation, exception handling, and secure role-based access control using **Spring Security**.
 
 ---
 
 ### 🛒 **ShopSphere – E-Commerce Backend System**
-`Jun 2026 – Aug 2026` | **Tech Stack**: `Spring Boot`, `Hibernate`, `MySQL`, `REST API`
-- Developed REST APIs for user, product, cart, order, and inventory management covering the complete e-commerce workflow.
-- Implemented database operations using Spring Data JPA and Hibernate with MySQL for reliable data persistence.
-- Added input validation and centralized exception handling to ensure consistent and reliable backend operations.
+
+`Jun 2026 – Aug 2026` | **Tech Stack:** `Spring Boot` `Hibernate` `MySQL` `REST API`
+
+* Developed REST APIs for user, product, cart, order, and inventory management covering the complete e-commerce workflow.
+* Implemented database operations using Spring Data JPA and Hibernate with MySQL for reliable data persistence.
+* Added input validation and centralized exception handling to ensure consistent and reliable backend operations.
 
 ---
 
 ## 🎓 Education
 
 ### **Bachelor of Technology (B.Tech) in Information Technology (IT)**
-- **Institution**: Future Institute of Technology | MAKAUT University
-- **Duration**: 2023 – 2027
-- **CGPA**: 7.0 / 10.0
+
+* **Institution:** Future Institute of Technology | MAKAUT University
+* **Duration:** 2023 – 2027
+* **CGPA:** 7.0 / 10.0
 
 ---
 
 ## 🌐 Languages
 
-- **Hindi**: Native
-- **English**: Professional Working Proficiency
+* **Hindi:** Native
+* **English:** Professional Working Proficiency
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priya1563&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priya1563&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 📬 Get in Touch
 
-- **Email**: [priyalucky1305@gmail.com](mailto:priyalucky1305@gmail.com)
-- **Phone**: [+91 9341773787](tel:+919341773787)
-- **GitHub**: https://github.com/priya1563
-- **Location**: West Bengal, India
+<p align="left">
+  <a href="mailto:priyalucky1305@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/priya1563">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
+
 <p align="center">
   <i>Developed with ❤️ by Lucky Priya</i>
 </p>
