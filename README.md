@@ -23,8 +23,8 @@ Java Developer with hands-on experience in building backend applications and RES
 
 - 📥 **Direct Download / View**: [Lucky Priya - Resume (PDF)](assets/resume.pdf)
 - 📞 **Contact**: +91 9341773787
-- 📧 **Email**: [priyalucky1305@gmail.com](mailto:priyalucky1305@gmail.com)
-- 🔗 **GitHub Profile**: [github.com/PriyaModi1309]https://github.com/priya1563
+- 📧 **Email**: priyalucky1305@gmail.com
+- 🔗 **GitHub Profile**: https://github.com/priya1563
 
 ---
 
@@ -114,7 +114,7 @@ Java Developer with hands-on experience in building backend applications and RES
 
 - **Email**: [priyalucky1305@gmail.com](mailto:priyalucky1305@gmail.com)
 - **Phone**: [+91 9341773787](tel:+919341773787)
-- **GitHub**: [github.com/PriyaModi1309](https://github.com/PriyaModi1309)
+- **GitHub**: https://github.com/priya1563
 - **Location**: West Bengal, India
 
 ---
