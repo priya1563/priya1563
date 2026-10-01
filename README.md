@@ -223,14 +223,6 @@ Skilled in designing CRUD REST APIs, implementing authentication and role-based 
 
 ---
 
-# 🐍 GitHub Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/priya1563/priya1563/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
 # 📬 Get in Touch
 
 <p align="center">
