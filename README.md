@@ -177,17 +177,7 @@ Skilled in designing CRUD REST APIs, implementing authentication and role-based 
 
 ---
 
-## 🛒 ShopSphere — E-Commerce Backend System
 
-`Jun 2026 – Aug 2026`
-
-**Tech Stack:** `Spring Boot` `Hibernate` `MySQL` `REST API`
-
-* Developed REST APIs for user, product, cart, order, and inventory management.
-* Implemented database operations using Spring Data JPA and Hibernate with MySQL.
-* Added input validation and centralized exception handling for reliable backend operations.
-
----
 
 # 🎓 Education
 
