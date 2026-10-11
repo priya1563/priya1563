@@ -175,7 +175,15 @@ Skilled in designing CRUD REST APIs, implementing authentication and role-based 
 * Implemented transaction processing and transaction history tracking using JPA/Hibernate with MySQL.
 * Added authentication, input validation, exception handling, and role-based access control using **Spring Security**.
 
----
+### 📚 Library Management System
+Tech Stack: Java, Hibernate, MySQL
+
+[View Project on GitHub](https://github.com/priya1563/LibraryManagement)
+
+- Developed a console-based library management application.
+- Implemented book and student member management.
+- Added book issue and return functionality.
+- Used Hibernate and MySQL for database operations.
 
 
 
